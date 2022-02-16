@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: d75dc184-9790-5fa1-1f2e-798ee5040856
 title: 'Second Reflection Paper: Material Stream'
 uid: 845dbc74-2466-8247-27fe-d8155dce8743

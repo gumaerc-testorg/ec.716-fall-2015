@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ec-716-d-lab-waste-fall-2015/119c1d616dbd65c937e4f8971e251347_MITEC_716F15_Session18.pdf
+file: /media/courses/ec-716-d-lab-waste-fall-2015/119c1d616dbd65c937e4f8971e251347_MITEC_716F15_Session18.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Slides
+parent_type: CourseSection
 resourcetype: Document
 title: MITEC_716F15_Session18
 uid: 119c1d61-6dbd-65c9-37e4-f8971e251347

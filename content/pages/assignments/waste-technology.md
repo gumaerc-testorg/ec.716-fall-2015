@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: d75dc184-9790-5fa1-1f2e-798ee5040856
 title: 'First Reflection Paper: Waste Technology'
 uid: 9295774c-4d17-93bb-8511-a65db87396d3

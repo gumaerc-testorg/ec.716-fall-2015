@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: d75dc184-9790-5fa1-1f2e-798ee5040856
 title: 'Third Reflection Paper: Partnerships/Enterprises'
 uid: f0003324-d959-a26d-4fe0-47f05e9899ce

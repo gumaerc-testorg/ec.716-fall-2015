@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: e8ee465b-495d-dbc8-8be8-27f87ae6bd8f
 title: Fostering Personalized Relationships with Students
 uid: 22a5d4ed-4132-a913-819d-d56391f25cea

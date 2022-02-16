@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: e8ee465b-495d-dbc8-8be8-27f87ae6bd8f
 title: Grounding the Course in Tangible Experiences
 uid: e1e02978-4210-a6c1-c2cd-1fede9d3918a
