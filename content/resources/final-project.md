@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 26b2e60a-282f-b106-5d04-5dbe6a22273c
 resourcetype: Document
 title: MIT_EC716_F15_REQS2
 uid: 66b0871f-e934-05bf-ef8b-52ec1ad27dc1

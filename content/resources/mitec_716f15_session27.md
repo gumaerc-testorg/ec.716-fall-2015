@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: bf62f05e-9c05-4faa-4435-47e5b593f3be
 resourcetype: Document
 title: 'Session 27: Financing Waste Management'
 uid: d03b7f7e-9967-fbac-1334-8798a298ba04

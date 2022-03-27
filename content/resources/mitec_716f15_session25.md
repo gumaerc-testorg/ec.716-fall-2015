@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: bf62f05e-9c05-4faa-4435-47e5b593f3be
 resourcetype: Document
 title: MITEC_716F15_Session25
 uid: a86b5de0-ff00-c1ef-19c4-64d5da3582bb

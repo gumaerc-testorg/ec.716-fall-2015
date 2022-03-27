@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: bf62f05e-9c05-4faa-4435-47e5b593f3be
 resourcetype: Document
 title: Q&A Session
 uid: 38fc10cf-4219-5acd-5284-1fb52d08c6bc

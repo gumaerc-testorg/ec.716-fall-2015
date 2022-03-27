@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 26b2e60a-282f-b106-5d04-5dbe6a22273c
 resourcetype: Document
 title: MITEC_716F15_Biohaz
 uid: f4bb6284-6c95-f228-7f60-65487b7492fc
