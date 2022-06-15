@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: "In this section, Kate Mytty shares how reflection papers in the course\
+  \ were structured in a way to help students explore the topic of waste from their\
+  \ own perspectives. She also discusses how keeping the reflection paper assignments\
+  \ \u201Copen,\u201D allowed students to incorporate into the learning experience\
+  \ topics not included in the syllabus."
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -15,7 +20,7 @@ _In this section, Kate Mytty shares how reflection papers in the course were str
 
 Students came to _EC.716 D-Lab: Waste_ from a variety of backgrounds. Some were business-oriented and were interested in learning how to create ventures from waste. Others were interested in public policy and were likely going to work for the government and advocate for change at the policy level. Still others were designers who wanted to build things out of waste or from materials that would become waste somewhere down the line. Our goal was to allow students to explore waste through their own lenses.
 
-One way we accomplished this goal was to assign [three reflection papers]({{< baseurl >}}/pages/assignments) that students could approach from a variety of perspectives. The first paper asked students to think critically about [waste technology]({{< baseurl >}}/pages/assignments/waste-technology), the second about [material streams]({{< baseurl >}}/pages/assignments/material-stream), and the third about [partnerships and enterprises]({{< baseurl >}}/pages/assignments/partnerships-enterprises). For each paper, students self-selected topics. They shared one of their reflection papers with the class in a 30-minute presentation. This was their opportunity to teach the class about topics relevant to their own fields.
+One way we accomplished this goal was to assign {{% resource_link d75dc184-9790-5fa1-1f2e-798ee5040856 "three reflection papers" %}} that students could approach from a variety of perspectives. The first paper asked students to think critically about {{% resource_link 9295774c-4d17-93bb-8511-a65db87396d3 "waste technology" %}}, the second about {{% resource_link 845dbc74-2466-8247-27fe-d8155dce8743 "material streams" %}}, and the third about {{% resource_link f0003324-d959-a26d-4fe0-47f05e9899ce "partnerships and enterprises" %}}. For each paper, students self-selected topics. They shared one of their reflection papers with the class in a 30-minute presentation. This was their opportunity to teach the class about topics relevant to their own fields.
 
 One woman taught the class about micro beads in beauty products. She poured water through a sock filled with a particular beauty product and demonstrated how the micro beads remained after the product filtered through the sock. For a long time the effects of these micro beads on fish and water life had been invisible. She spoke about regulations that are beginning to emerge to protect water systems from these micro beads.
 

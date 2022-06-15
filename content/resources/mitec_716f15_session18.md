@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/ec-716-d-lab-waste-fall-2015/119c1d616dbd65c937e4f8971e251347_MITEC_716F15_Session18.pdf
+file: /courses/ec-716-d-lab-waste-fall-2015/119c1d616dbd65c937e4f8971e251347_MITEC_716F15_Session18.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'In this section, Kate Mytty describes how she grounded EC.716 D-Lab:
+  Waste in tangible experiences that helped students think critically about their
+  role in waste infrastructure systems.'
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -22,7 +25,7 @@ In our second exercise, we engaged students in an activity in which they selecte
 A Hands-on Lab Experience
 -------------------------
 
-One of the lab experiences in _EC.716 D-Lab: Waste_ challenged students to create a [spot welder](https://en.wikipedia.org/wiki/Spot_welding) from materials stripped from a microwave that no longer functioned. This lab gave students hands-on experience thinking about electronic waste (also known as “e-waste”), which is one of the largest issues facing the international community. E-waste is produced every time a company announces the launch of a new product and people dispose of their old products. We’re faced with the question of what to do with all of this e-waste. How can we reuse it instead of putting it in a landfill? Some international communities have developed [informal sectors]({{< baseurl >}}/pages/instructor-insights/instructor-background) to manage e-waste. People in these sectors strip the discarded products for every valuable part they contain. They then sell these parts up the materials flow chain. Creating a spot welder from microwave parts gives students a sense of how this process works.
+One of the lab experiences in _EC.716 D-Lab: Waste_ challenged students to create a [spot welder](https://en.wikipedia.org/wiki/Spot_welding) from materials stripped from a microwave that no longer functioned. This lab gave students hands-on experience thinking about electronic waste (also known as “e-waste”), which is one of the largest issues facing the international community. E-waste is produced every time a company announces the launch of a new product and people dispose of their old products. We’re faced with the question of what to do with all of this e-waste. How can we reuse it instead of putting it in a landfill? Some international communities have developed {{% resource_link 8cce59ec-1fd6-c3d0-8861-70eb3af63341 "informal sectors" %}} to manage e-waste. People in these sectors strip the discarded products for every valuable part they contain. They then sell these parts up the materials flow chain. Creating a spot welder from microwave parts gives students a sense of how this process works.
 
 It was awesome to see students come to understand an electronic device they know so well in a completely new way. For instance, when they tried to strip copper from the microwave, they learned they first had to first strip away the metal tubing and glue encasing it. The tangible act of taking apart the microwave helped them gain a new sense of the complexity within the device.
 

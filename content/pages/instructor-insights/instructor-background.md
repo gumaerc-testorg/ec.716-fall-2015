@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'In this section, Kate Mytty shares that her research in India inspired
+  her interest in teaching about waste infrastructures. '
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

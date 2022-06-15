@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides details on the three writing assignments for the
+  course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -14,6 +16,6 @@ You will be evaluated on the depth of your presentation, synthesis of material, 
 Reflection Papers
 -----------------
 
-1.  [Waste Technology]({{< baseurl >}}/pages/assignments/waste-technology)
-2.  [Material Stream]({{< baseurl >}}/pages/assignments/material-stream)
-3.  [Partnerships / Enterprises]({{< baseurl >}}/pages/assignments/partnerships-enterprises)
+1.  {{% resource_link 9295774c-4d17-93bb-8511-a65db87396d3 "Waste Technology" %}}
+2.  {{% resource_link 845dbc74-2466-8247-27fe-d8155dce8743 "Material Stream" %}}
+3.  {{% resource_link f0003324-d959-a26d-4fe0-47f05e9899ce "Partnerships / Enterprises" %}}

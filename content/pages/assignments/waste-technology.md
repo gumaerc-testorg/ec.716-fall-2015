@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides details on an assignment to write a reflection
+  paper on waste management technology.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

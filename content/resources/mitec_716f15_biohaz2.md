@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/ec-716-d-lab-waste-fall-2015/f4bb62846c95f2287f6065487b7492fc_MITEC_716F15_Biohaz2.pdf
+file: /courses/ec-716-d-lab-waste-fall-2015/f4bb62846c95f2287f6065487b7492fc_MITEC_716F15_Biohaz2.pdf
 file_type: application/pdf
 learning_resource_types:
 - Projects
