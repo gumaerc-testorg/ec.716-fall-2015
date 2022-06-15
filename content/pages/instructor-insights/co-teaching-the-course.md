@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'In this section, Kate Mytty shares her insights about co-teaching EC.716
+  D-Lab: Waste.'
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -9,21 +12,17 @@ parent_uid: e8ee465b-495d-dbc8-8be8-27f87ae6bd8f
 title: Co-Teaching the Course
 uid: 4b4c6cc9-474f-3366-5bcb-7a4ed15c6036
 ---
+_In this section, Kate Mytty shares her insights about co-teaching_ EC.716 D-Lab: Waste.
 
-_In this section, Kate Mytty shares her insights about co-teaching_ EC.716 D-Lab: Waste_._
-
-An Opportunity to Get Feedback on Teaching Plans
-------------------------------------------------
+## An Opportunity to Get Feedback on Teaching Plans
 
 I co-taught the Fall 2015 version of _EC.716 D-Lab: Waste_ with my colleague, [Pedro Reynolds-Cuellar](https://d-lab.mit.edu/about/people/pedro-reynolds-cuellar). We each facilitated every other class session. Before each session, we discussed our teaching plans with each other. We talked through our learning goals for students and the key points we hoped they’d take from the learning experiences we designed. We used these conversations as an opportunities to offer each other suggestions for improving our agendas for the sessions.
 
-Offering Students Different Disciplinary Perspectives
------------------------------------------------------
+## Offering Students Different Disciplinary Perspectives
 
 Pedro has a strong technical background. I come from an urban planning and ventures background. It was beneficial to be able to offer students different lenses through which they could examine the subject of waste.
 
-Learning from Each Other’s Teaching Styles
-------------------------------------------
+## Learning from Each Other’s Teaching Styles
 
 In addition to his strong technical background, Pedro also brought to the course robust pedagogical skills. Prior to teaching _EC.716 D-Lab: Waste_, I had taught several short-term workshops, but Pedro, had a lot of experience teaching semester-long courses.
 
