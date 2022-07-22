@@ -5,6 +5,7 @@ file: /courses/ec-716-d-lab-waste-fall-2015/38fc10cf42195acd52841fb52d08c6bc_MIT
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Q&A Session
 uid: 38fc10cf-4219-5acd-5284-1fb52d08c6bc
 ---
 This resource contains the information regarding Q&A session. 
-

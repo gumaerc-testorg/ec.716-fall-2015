@@ -5,6 +5,7 @@ file: /courses/ec-716-d-lab-waste-fall-2015/d333603deb97992d6cfd06881bc9555b_MIT
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection

@@ -5,6 +5,7 @@ file: /courses/ec-716-d-lab-waste-fall-2015/66b0871fe93405bfef8b52ec1ad27dc1_fin
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection

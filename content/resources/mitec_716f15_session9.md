@@ -6,6 +6,7 @@ file: /courses/ec-716-d-lab-waste-fall-2015/e4812ea47becf277ae94e2071779e8a1_MIT
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Session 9: Waste Management Actors'
 uid: e4812ea4-7bec-f277-ae94-e2071779e8a1
 ---
 This resource contains the information regarding session 9: Waste management actors.
-

@@ -6,6 +6,7 @@ file: /courses/ec-716-d-lab-waste-fall-2015/dc2409b10ee234ea92b321f6a13bd587_MIT
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Session 16: Life Cycle Analysis'
 uid: dc2409b1-0ee2-34ea-92b3-21f6a13bd587
 ---
 This resource contains the information regarding session 16: Life cycle analysis.
-

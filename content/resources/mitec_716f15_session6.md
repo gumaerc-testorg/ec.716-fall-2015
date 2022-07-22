@@ -6,6 +6,7 @@ file: /courses/ec-716-d-lab-waste-fall-2015/4106f784831fddd9be6f053441b50bff_MIT
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Session 6: End Goal of Waste'
 uid: 4106f784-831f-ddd9-be6f-053441b50bff
 ---
 This resource contains the information regarding session 6: End goal of waste.
-
