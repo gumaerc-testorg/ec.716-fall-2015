@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, collaboration and academic integrity, course evolution,
+  credit, and grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 2386dac8-d726-7d7f-8d29-d61f30b64047
 ---

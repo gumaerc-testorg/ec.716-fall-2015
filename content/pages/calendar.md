@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics, labs, field trips,
+  film viewings, and assignment due dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 7ebfd39e-f912-f094-be33-c40aed191dec
 ---
