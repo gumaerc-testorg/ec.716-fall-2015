@@ -12,11 +12,11 @@ parent_uid: e8ee465b-495d-dbc8-8be8-27f87ae6bd8f
 title: Co-Teaching the Course
 uid: 4b4c6cc9-474f-3366-5bcb-7a4ed15c6036
 ---
-_In this section, Kate Mytty shares her insights about co-teaching_ EC.716 D-Lab: Waste.
+*In this section, Kate Mytty shares her insights about co-teaching* EC.716 D-Lab: Waste.
 
 ## An Opportunity to Get Feedback on Teaching Plans
 
-I co-taught the Fall 2015 version of _EC.716 D-Lab: Waste_ with my colleague, [Pedro Reynolds-Cuellar](https://d-lab.mit.edu/about/people/pedro-reynolds-cuellar). We each facilitated every other class session. Before each session, we discussed our teaching plans with each other. We talked through our learning goals for students and the key points we hoped they’d take from the learning experiences we designed. We used these conversations as an opportunities to offer each other suggestions for improving our agendas for the sessions.
+I co-taught the Fall 2015 version of *EC.716 D-Lab: Waste* with my colleague, [Pedro Reynolds-Cuellar](https://www.media.mit.edu/people/pcuellar/overview/). We each facilitated every other class session. Before each session, we discussed our teaching plans with each other. We talked through our learning goals for students and the key points we hoped they’d take from the learning experiences we designed. We used these conversations as an opportunities to offer each other suggestions for improving our agendas for the sessions.
 
 ## Offering Students Different Disciplinary Perspectives
 
@@ -24,7 +24,7 @@ Pedro has a strong technical background. I come from an urban planning and ventu
 
 ## Learning from Each Other’s Teaching Styles
 
-In addition to his strong technical background, Pedro also brought to the course robust pedagogical skills. Prior to teaching _EC.716 D-Lab: Waste_, I had taught several short-term workshops, but Pedro, had a lot of experience teaching semester-long courses.
+In addition to his strong technical background, Pedro also brought to the course robust pedagogical skills. Prior to teaching *EC.716 D-Lab: Waste*, I had taught several short-term workshops, but Pedro, had a lot of experience teaching semester-long courses.
 
 {{< quote "I learned a lot from [my co-teacher] and his approach to engaging students." "— Kate Mytty" >}}
 
