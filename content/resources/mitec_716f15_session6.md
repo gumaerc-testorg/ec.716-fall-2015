@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the information regarding session 6: End goal
   of waste.'
-file: /ol-ocw-studio-app/courses/ec-716-d-lab-waste-fall-2015/4106f784831fddd9be6f053441b50bff_MITEC_716F15_Session6.pdf
+file: /courses/ec-716-d-lab-waste-fall-2015/4106f784831fddd9be6f053441b50bff_MITEC_716F15_Session6.pdf
 file_size: 1455253
 file_type: application/pdf
 learning_resource_types:
