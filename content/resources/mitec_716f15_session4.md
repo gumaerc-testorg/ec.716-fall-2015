@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the information regarding session 4: landfill,
   Q&A, numbers game. '
-file: /ol-ocw-studio-app/courses/ec-716-d-lab-waste-fall-2015/6dd8db5e6786864fcecf36446faec867_MITEC_716F15_Session4.pdf
+file: /courses/ec-716-d-lab-waste-fall-2015/6dd8db5e6786864fcecf36446faec867_MITEC_716F15_Session4.pdf
 file_size: 1606551
 file_type: application/pdf
 learning_resource_types:

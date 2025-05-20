@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the information regarding session 27: financing
   waste management.'
-file: /ol-ocw-studio-app/courses/ec-716-d-lab-waste-fall-2015/d03b7f7e9967fbac13348798a298ba04_MITEC_716F15_Session27.pdf
+file: /courses/ec-716-d-lab-waste-fall-2015/d03b7f7e9967fbac13348798a298ba04_MITEC_716F15_Session27.pdf
 file_size: 1001261
 file_type: application/pdf
 learning_resource_types:
