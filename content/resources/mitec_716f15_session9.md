@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the information regarding session 9: Waste management
   actors.'
-file: /ol-ocw-studio-app/courses/ec-716-d-lab-waste-fall-2015/e4812ea47becf277ae94e2071779e8a1_MITEC_716F15_Session9.pdf
+file: /courses/ec-716-d-lab-waste-fall-2015/e4812ea47becf277ae94e2071779e8a1_MITEC_716F15_Session9.pdf
 file_size: 588093
 file_type: application/pdf
 learning_resource_types:
