@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the information regarding session 16: Life cycle
   analysis.'
-file: /courses/ec-716-d-lab-waste-fall-2015/dc2409b10ee234ea92b321f6a13bd587_MITEC_716F15_Session16.pdf
+file: /ol-ocw-studio-app/courses/ec-716-d-lab-waste-fall-2015/dc2409b10ee234ea92b321f6a13bd587_MITEC_716F15_Session16.pdf
 file_size: 959674
 file_type: application/pdf
 learning_resource_types:
