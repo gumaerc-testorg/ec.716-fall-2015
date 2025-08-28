@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/ec-716-d-lab-waste-fall-2015/66b0871fe93405bfef8b52ec1ad27dc1_final-project.pdf
+file: /ol-ocw-studio-app/courses/ec-716-d-lab-waste-fall-2015/66b0871fe93405bfef8b52ec1ad27dc1_final-project.pdf
 file_size: 73833
 file_type: application/pdf
 learning_resource_types:
