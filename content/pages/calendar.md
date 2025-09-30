@@ -25,7 +25,7 @@ This is an introductory class. We will start with an introduction to everyone in
 {{< tdclose >}}{{< tdopen >}}
 Field Trip
 {{< tdclose >}}{{< tdopen >}}
-[Massachusetts SouthBridge Landfill](https://wastebits.com/locator/location/southbridge-landfill)
+{{% resource_link "cbb8ee1d-a900-43d7-bf35-6097765cda09" "Massachusetts SouthBridge Landfill" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
 {{< tdclose >}}{{< tdopen >}}
@@ -119,7 +119,7 @@ Lab experiment: Fuel from the Fields. Bring an egg; wear gear for the outdoors.
 Lab
 {{< tdclose >}}{{< tdopen >}}
 
-Field Trip to [Save That Stuff](http://www.savethatstuff.com/)
+Field Trip to {{% resource_link "31112e41-9dc8-4423-bc6b-108957c6961a" "Save That Stuff" %}}
 
 **Due: First writing on waste technology**
 
@@ -198,7 +198,7 @@ Student presentations
 {{< tdclose >}}{{< tdopen >}}
 Field Trip
 {{< tdclose >}}{{< tdopen >}}
-Visit [Casella Recycling Plant](http://www.casella.com/what-we-do/recycling/zerosort-recycling)
+Visit {{% resource_link "ba65e119-2ed7-4e84-82e9-8fcdf110de28" "Casella Recycling Plant" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24
 {{< tdclose >}}{{< tdopen >}}
@@ -242,7 +242,7 @@ Lab
 {{< tdclose >}}{{< tdopen >}}
 Field Trip
 {{< tdclose >}}{{< tdopen >}}
-[Stericycle](http://www.stericycle.com/) tour
+{{% resource_link "c37e668f-20ba-4d18-83b4-a1e1d41b6fcb" "Stericycle" %}} tour
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 30
 {{< tdclose >}}{{< tdopen >}}
