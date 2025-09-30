@@ -21,9 +21,9 @@ Make it fun and informative (don't feel you need to be constrained by traditiona
 
 A few links of inspiration:
 
-- [Good background on scientific posters](http://www.makesigns.com/tutorials/scientific-poster-planning.aspx)
-- [Intro to Research Posters](http://guides.nyu.edu/posters)
-- [Stack Exchange discussion: Examples of good academic poster design](http://graphicdesign.stackexchange.com/questions/9452/examples-of-good-academic-poster-design) 
+- {{% resource_link "f8bf3309-1012-49fa-8f7b-93cf183a364f" "Good background on scientific posters" %}}
+- {{% resource_link "83ee6957-2541-4d5d-8e48-915f67c150c8" "Intro to Research Posters" %}}
+- {{% resource_link "c4342ac2-bdc0-42e6-adf9-810608ac0f62" "Stack Exchange discussion: Examples of good academic poster design" %}} 
 
 **Past Projects Include**
 
