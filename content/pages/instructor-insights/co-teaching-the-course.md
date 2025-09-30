@@ -16,7 +16,7 @@ uid: 4b4c6cc9-474f-3366-5bcb-7a4ed15c6036
 
 ## An Opportunity to Get Feedback on Teaching Plans
 
-I co-taught the Fall 2015 version of *EC.716 D-Lab: Waste* with my colleague, [Pedro Reynolds-Cuellar](https://www.media.mit.edu/people/pcuellar/overview/). We each facilitated every other class session. Before each session, we discussed our teaching plans with each other. We talked through our learning goals for students and the key points we hoped they’d take from the learning experiences we designed. We used these conversations as an opportunities to offer each other suggestions for improving our agendas for the sessions.
+I co-taught the Fall 2015 version of *EC.716 D-Lab: Waste* with my colleague, {{% resource_link "1ef5e214-d2e7-4318-845f-1d3b9d80622c" "Pedro Reynolds-Cuellar" %}}. We each facilitated every other class session. Before each session, we discussed our teaching plans with each other. We talked through our learning goals for students and the key points we hoped they’d take from the learning experiences we designed. We used these conversations as an opportunities to offer each other suggestions for improving our agendas for the sessions.
 
 ## Offering Students Different Disciplinary Perspectives
 
